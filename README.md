@@ -116,6 +116,44 @@ Business-oriented production quality analysis
   - Box plot analysis 
 - Cycle time analysis
 
+## Power BI Dashboard
+
+The report contains three pages (1) Executive Overview, (2) Defect Analysis, and (3) Process and Maintenance Analysis.
+
+### 1. Executive Quality Overview
+
+Management-level summary of:
+
+- Production Quantity
+- Defect Quantity
+- Defect Rate
+- First Pass Yield
+- Cost of Quality
+- Monthly Defect Rate Trend
+- Product Performance
+- Machine Performance
+- Defect Type Pareto
+- Batch Quality Status
+
+### 2. Defects Analysis
+
+Detailed analysis of:
+
+- Defect Types
+- Cost of Quality
+- Severity
+- Disposition
+
+### 3. Process and Maintenance Analysis
+
+- Days Since Maintenance
+- Cycle Time Performance
+- Maintenance History
+- Ambient Temperature
+- Humidity
+
+See [`powerbi/README.md`](powerbi/README.md) for the planned visuals.
+
 ## Key Analytical Principle
 
 The project calculates yield (%) and defect rate (DPPM) using aggregated defect quantities and production quantities rather than aggregating the yield and defect rates of row-level production batches. This allows accounting the data in terms of individual units instead of per individual batch.
