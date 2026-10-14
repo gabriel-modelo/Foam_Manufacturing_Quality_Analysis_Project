@@ -1,0 +1,6 @@
+machine_id,machine_name,line,machine_type
+M001,Rebond Press 01,Line 1,Rebond Press
+M002,Rebond Press 02,Line 1,Rebond Press
+M003,Rebond Press 03,Line 2,Rebond Press
+M004,Cutter 01,Line 3,CNC Cutter
+M005,Cutter 02,Line 3,CNC Cutter
