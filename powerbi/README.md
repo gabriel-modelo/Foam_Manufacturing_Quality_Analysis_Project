@@ -31,6 +31,9 @@ Detailed analysis of:
 - Severity
 - Disposition
 
+<img width="1437" height="806" alt="image" src="https://github.com/user-attachments/assets/07e5d639-6ee7-43da-b365-cde6e0287cd7" />
+
+
 3. **Process and Maintenance Analysis**
 
 - Days Since Maintenance
@@ -38,3 +41,6 @@ Detailed analysis of:
 - Maintenance History
 - Ambient Temperature
 - Humidity
+
+<img width="1437" height="807" alt="image" src="https://github.com/user-attachments/assets/341954e2-727d-4c4a-8e19-1fac4d336ea5" />
+
