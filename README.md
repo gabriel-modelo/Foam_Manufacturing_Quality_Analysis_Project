@@ -1,7 +1,7 @@
 # Foam Manufacturing Quality Analysis
 
 ## Project Overview
-This project analyzes a fictional foam manufacturing dataset to discover insights, trends, and patterns to understand key metrics using PostgreSQL. The project follows an end-to-end workflow starting from obtaining the raw dataset, performing exploratory data analysis (EDA) with PostgreSQL, and finally gaining business insights.
+This project analyzes a fictional foam manufacturing dataset to discover insights, trends, and patterns to understand key metrics using PostgreSQL and Power BI. The project follows an end-to-end workflow starting from obtaining the raw dataset, performing exploratory data analysis (EDA) with PostgreSQL, developing interactive dashboards with Power BI, and finally gaining actionable business insights.
 
 Note that the dataset used is fictional and obtained for the purpose of building the portfolio project. 
 
