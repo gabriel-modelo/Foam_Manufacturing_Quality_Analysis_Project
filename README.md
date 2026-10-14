@@ -24,9 +24,10 @@ The manufacturing plant needs to understand where quality losses occur and which
 
 ## Tools Used
 
-- **PostgreSQL** — database and SQL analysis
-- **pgAdmin 4** — database management
-- **GitHub** — portfolio documentation and version control
+- **PostgreSQL** - database and SQL analysis
+- **pgAdmin 4** - database management
+- **Power BI** - interactive dashboarding
+- **GitHub** - portfolio documentation and version control
 
 ## Dataset
 
